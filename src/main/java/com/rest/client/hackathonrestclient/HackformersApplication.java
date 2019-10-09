@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class HackformersApplication extends ServletInitializer {
+public class HackformersApplication  {
 	
 	private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger(HackformersApplication.class);
 
